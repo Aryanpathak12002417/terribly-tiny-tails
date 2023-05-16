@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Project is hosted on netlify
 
 Link to the hosted application
-[Click LINK](https://6460a8bdef063b68399ff184--regal-tiramisu-d75bb9.netlify.app/)
+[Click LINK](https://regal-tiramisu-d75bb9.netlify.app/)
 
 or copy the below Link:
 https://6460a8bdef063b68399ff184--regal-tiramisu-d75bb9.netlify.app/
