@@ -9,7 +9,7 @@ Link to the hosted application
 [Click LINK](https://regal-tiramisu-d75bb9.netlify.app/)
 
 or copy the below Link:
-https://6460a8bdef063b68399ff184--regal-tiramisu-d75bb9.netlify.app/
+https://regal-tiramisu-d75bb9.netlify.app/
 
 
 ## NPM MODULES USED
